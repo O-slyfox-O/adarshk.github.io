@@ -3522,7 +3522,7 @@ input, select, textarea {
 				#banner .content .image img {
 					border-radius: 100%;
 					display: block;
-					width: 50%;
+					width: 250%;
 				}
 
 	body.is-touch #banner {
